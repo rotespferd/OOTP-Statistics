@@ -1,3 +1,16 @@
+#################
+# Build Process #
+#################
+
+# parcel
+.cache
+dist
+
+################
+# Dependencies #
+################
+node_modules
+
 ##############
 # OS related #
 ##############

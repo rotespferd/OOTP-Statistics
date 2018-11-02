@@ -1,0 +1,20 @@
+{
+  "name": "BaseballStatistics",
+  "version": "0.0.0",
+  "description": "Tool to analyse statistics of OOTP data-dumps.",
+  "main": "index.js",
+  "repository": "git@github.com:rotespferd/OOTP-Statistics.git",
+  "author": "Marian Sievers <marian.sievers@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.20.1",
+    "bootstrap": "^4.1.3",
+    "fork-ts-checker-webpack-plugin": "^0.4.14",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0",
+    "ts-loader": "^3",
+    "typescript": "^3.1.5",
+    "webpack-cli": "^3.1.2"
+  }
+}

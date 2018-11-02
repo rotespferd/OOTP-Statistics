@@ -1,0 +1,9 @@
+// import variables
+@import "variables";
+
+// the ~ allows you to reference things in node_modules
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: red;
+}
